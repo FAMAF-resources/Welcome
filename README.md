@@ -2,6 +2,8 @@
 
 En este repositorio se encuentra un recopilatorio de apuntes y libros utilizados en FAMAFyC.
 
+No es necesario clonar este repositorio.
+
 # Crear un nuevo repositorio
 
 - [Template](https://github.com/FAMAF-resources/Template-repository)
@@ -48,7 +50,7 @@ En este repositorio se encuentra un recopilatorio de apuntes y libros utilizados
 ### Primer año
 
 #### [1ro 1C - Matematica Discreta I](https://github.com/FAMAF-resources/Matematica_Discreta_I-FAMAF)
-#### [1ro 1C - Introduccion a los Algoritmos](https://github.com/FAMAF-resources/Introduccion_a_los_Algoritmos-FAMAF)
+#### [1ro 1C - Introduccion a los Algoritmos](https://github.com/FAMAF-resources/1ro_1C-Introduccion_a_los_Algoritmos-FAMAF)
 #### [1ro 1C - Analisis Matematico I](https://github.com/FAMAF-resources/Analisis_Matematico_I-FAMAF)
 
 #### [1ro 2C - Algoritmos y estructura de datos I](https://github.com/FAMAF-resources/Algoritmos_y_estructura_de_datos_I-FAMAF)
@@ -58,18 +60,18 @@ En este repositorio se encuentra un recopilatorio de apuntes y libros utilizados
 ### Segundo año
 
 #### [2do 1C - Algoritmos y estructura de datos II](https://github.com/FAMAF-resources/Algoritmos_y_estructura_de_datos_II-FAMAF)
-#### [2do 1C - Organizacion del Computador](https://github.com/FAMAF-resources/Organizacion_del_Computador-FAMAF)
-#### [2do 1C - Analisis Numerico I](https://github.com/FAMAF-resources/)
+#### [2do 1C - Organizacion del Computador](https://github.com/FAMAF-resources/2do_1C-Organizacion_del_Computador-FAMAF)
+#### [2do 1C - Analisis Numerico I](https://github.com/FAMAF-resources/2do_1C-Analisis_Numerico_I-FAMAF)
 
 #### [2do 2C - Introduccion a la Logica y la Computacion](https://github.com/FAMAF-resources/)
-#### [2do 2C - Sistemas Operativos](https://github.com/FAMAF-resources/)
+#### [2do 2C - Sistemas Operativos](https://github.com/FAMAF-resources/2do_2C-Sistemas_Operativos-FAMAF)
 #### [2do 2C - Probabilidad y Estadistica](https://github.com/FAMAF-resources/2do_2C-Probabilidad_y_Estadistica-FAMAF)
 
 ### Tercer año
 
-#### [3ro 1C - Matematica Discreta II](https://github.com/FAMAF-resources/)
-#### [3ro 1C - Paradigmas de la Programacion](https://github.com/FAMAF-resources/)
-#### [3ro 1C - Redes y Sistemas Distribuidos](https://github.com/FAMAF-resources/)
+#### [3ro 1C - Matematica Discreta II](https://github.com/FAMAF-resources/3ro_1C-Matematica_Discreta_II-FAMAF)
+#### [3ro 1C - Paradigmas de la Programacion](https://github.com/FAMAF-resources/3ro_1C-Paradigmas_de_la_Programacion-FAMAF)
+#### [3ro 1C - Redes y Sistemas Distribuidos](https://github.com/FAMAF-resources/3ro_1C-Redes_y_Sistemas_Distribuidos-FAMAF)
 
 #### [3ro 2C - Ingenieria del Software I](https://github.com/FAMAF-resources/)
 #### [3ro 2C - Bases de Datos](https://github.com/FAMAF-resources/)
