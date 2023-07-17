@@ -73,19 +73,19 @@ No es necesario clonar este repositorio.
 #### [3ro 1C - Paradigmas de la Programacion](https://github.com/FAMAF-resources/3ro_1C-Paradigmas_de_la_Programacion-FAMAF)
 #### [3ro 1C - Redes y Sistemas Distribuidos](https://github.com/FAMAF-resources/3ro_1C-Redes_y_Sistemas_Distribuidos-FAMAF)
 
-#### [3ro 2C - Ingenieria del Software I](https://github.com/FAMAF-resources/)
-#### [3ro 2C - Bases de Datos](https://github.com/FAMAF-resources/)
-#### [3ro 2C - Arquitectura de Computadoras](https://github.com/FAMAF-resources/)
+#### [3ro 2C - Ingenieria del Software I](https://github.com/FAMAF-resources/3ro_2C-Ingenieria_del_Software_I-FAMAF)
+#### [3ro 2C - Bases de Datos](https://github.com/FAMAF-resources/3ro_2C-Bases_de_Datos-FAMAF)
+#### [3ro 2C - Arquitectura de Computadoras](https://github.com/FAMAF-resources/3ro_2C-Arquitectura_de_Computadoras-FAMAF)
 
 ### Cuarto año
 
-#### [4to 1C - Lenguajes Formales y Computabilidad](https://github.com/FAMAF-resources/)
-#### [4to 1C - Modelos y Simulacion](https://github.com/FAMAF-resources/)
+#### [4to 1C - Lenguajes Formales y Computabilidad](https://github.com/FAMAF-resources/4to_1C-LenguajesFormales_y_Computabilidad-FAMAF)
+#### [4to 1C - Modelos y Simulacion](https://github.com/FAMAF-resources/4to_1C-Modelos_y_Simulacion-FAMAF)
 
-#### [4to 2C - Logica](https://github.com/FAMAF-resources/)
-#### [4to 2C - Fisica](https://github.com/FAMAF-resources/)
+#### [4to 2C - Logica](https://github.com/FAMAF-resources/4to_2C-Logica-FAMAF)
+#### [4to 2C - Fisica](https://github.com/FAMAF-resources/4to_2C-Fisica-FAMAF)
 
 ### Quinto año
 
-#### [5to 1C - Lenguajes y Compiladores](https://github.com/FAMAF-resources/)
-#### [5to 1C - Ingenieria del Software II](https://github.com/FAMAF-resources/)
+#### [5to 1C - Lenguajes y Compiladores](https://github.com/FAMAF-resources/5to_1C-Lenguajes_y_Compiladores-FAMAF)
+#### [5to 1C - Ingenieria del Software II](https://github.com/FAMAF-resources/5to_1C-Ingenieria_del_Software_II-FAMAF)
