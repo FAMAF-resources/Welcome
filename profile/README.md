@@ -2,6 +2,14 @@
 
 En este usuario se encuentran recopilatorios de apuntes y libros utilizados en FAMAFyC.
 
+## Apuntes y libros 📚
+
+- [Inicio](https://github.com/FAMAF-resources/Welcome)
+
+## Examenes y parciales 📑
+
+- [Repositorio](https://github.com/ExamenesViejos-FaMAF-Computacion)
+
 <!--
 
 **Here are some ideas to get you started:**
