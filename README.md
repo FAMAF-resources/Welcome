@@ -44,6 +44,7 @@ No es necesario clonar este repositorio.
 
 # Materias
 <!-- #### [Ingreso]() -->
+### [Módulo de inglés](https://github.com/FAMAF-resources/Modulo_de_ingles-FAMAF)
 
 ## Licenciatura en Cs de la Computacion
 
