@@ -63,7 +63,7 @@ No es necesario clonar este repositorio.
 #### [2do 1C - Organizacion del Computador](https://github.com/FAMAF-resources/2do_1C-Organizacion_del_Computador-FAMAF)
 #### [2do 1C - Analisis Numerico I](https://github.com/FAMAF-resources/2do_1C-Analisis_Numerico_I-FAMAF)
 
-#### [2do 2C - Introduccion a la Logica y la Computacion](https://github.com/FAMAF-resources/)
+#### [2do 2C - Introduccion a la Logica y la Computacion](https://github.com/FAMAF-resources/2_2C-Introduccion_a_la_Logica_y_la_computacion-FAMAF)
 #### [2do 2C - Sistemas Operativos](https://github.com/FAMAF-resources/2do_2C-Sistemas_Operativos-FAMAF)
 #### [2do 2C - Probabilidad y Estadistica](https://github.com/FAMAF-resources/2do_2C-Probabilidad_y_Estadistica-FAMAF)
 
@@ -89,3 +89,7 @@ No es necesario clonar este repositorio.
 
 #### [5to 1C - Lenguajes y Compiladores](https://github.com/FAMAF-resources/5to_1C-Lenguajes_y_Compiladores-FAMAF)
 #### [5to 1C - Ingenieria del Software II](https://github.com/FAMAF-resources/5to_1C-Ingenieria_del_Software_II-FAMAF)
+
+### Optativas
+
+Solicitar creación del repositorio
