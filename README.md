@@ -94,3 +94,7 @@ No es necesario clonar este repositorio.
 ### Optativas
 
 Solicitar creación del repositorio
+
+# Correlativas
+
+![Grafo de Correlativas](./images/Correlativas%20de%20Famaf.png)
