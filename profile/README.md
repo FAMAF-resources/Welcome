@@ -1,14 +1,18 @@
-# Recursos y apuntes FAMAF
+# Recursos y apuntes FAMAF :star:
 
-En este usuario se encuentran recopilatorios de apuntes y libros utilizados en FAMAFyC.
+Este es un proyecto con fines de facilitar el acceso al material para estudio, creado por estudiantes para estudiantes.
+
+La idea es crear una comunidad para plantear ideas e implementaciones para el cursado.
+
+Se encuentran recopilatorios de apuntes, resumenes y libros utilizados en FAMAFyC.
 
 ## Apuntes y libros 📚
 
-- [Inicio](https://github.com/FAMAF-resources/Welcome)
+- [**Inicio**](https://github.com/FAMAF-resources/Welcome)
 
 ## Examenes y parciales 📑
 
-- [Repositorio](https://github.com/ExamenesViejos-FaMAF-Computacion)
+- [**Repositorio**](https://github.com/ExamenesViejos-FaMAF-Computacion)
 
 <!--
 
