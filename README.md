@@ -69,7 +69,7 @@ No es necesario clonar este repositorio.
 
 #### [1ro 2C - Algoritmos y estructura de datos I](https://github.com/FAMAF-resources/Algoritmos_y_estructura_de_datos_I-FAMAF)
 #### [1ro 2C - Algebra](https://github.com/FAMAF-resources/)
-#### [1ro 2C - Analisis Matematico II](https://github.com/FAMAF-resources/Analisis_Matematico_II-FAMAF)
+#### [1ro 2C - Analisis Matematico II](https://github.com/FAMAF-resources/1ro_2C-Analisis_Matematico_II-FAMAF)
 
 ### Segundo año
 
