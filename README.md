@@ -1,4 +1,4 @@
-# Recursos FAMAF
+# :star: Recursos FAMAF :star:
 
 En este repositorio se encuentra un recopilatorio de apuntes y libros utilizados en FAMAFyC.
 
@@ -17,6 +17,8 @@ No es necesario clonar este repositorio.
 # Tabla
 
 - [Materias](#materias)
+    - [Ingreso](#ingreso)
+    - [Módulo de inglés](#módulo-de-inglés)
   - [Licenciatura en Cs de la Computacion](#licenciatura-en-cs-de-la-computacion)
     - [Primer año](#primer-año)
       - [1ro 1C - Matematica Discreta I](#1ro-1c---matematica-discreta-i)
@@ -47,9 +49,14 @@ No es necesario clonar este repositorio.
     - [Quinto año](#quinto-año)
       - [5to 1C - Lenguajes y Compiladores](#5to-1c---lenguajes-y-compiladores)
       - [5to 1C - Ingenieria del Software II](#5to-1c---ingenieria-del-software-ii)
+    - [Optativas](#optativas)
+      - [Redes Neuronales](#redes-neuronales)
+      - [Computacion Paralela](#computacion-paralela)
+- [Correlativas](#correlativas)
 
 # Materias
-<!-- #### [Ingreso]() -->
+
+### [Ingreso](https://github.com/FAMAF-resources/0-Ingreso-FAMAF)
 ### [Módulo de inglés](https://github.com/FAMAF-resources/Modulo_de_ingles-FAMAF)
 
 ## Licenciatura en Cs de la Computacion
@@ -100,6 +107,9 @@ No es necesario clonar este repositorio.
 ### Optativas
 
 Solicitar creación del repositorio
+
+#### [Redes Neuronales](https://github.com/FAMAF-resources/Optativa-Redes_Neuronales-FAMAF)
+#### [Computacion Paralela](https://github.com/FAMAF-resources/Optativa-Computacion_Paralela-FAMAF)
 
 # Correlativas
 
