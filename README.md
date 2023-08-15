@@ -4,6 +4,12 @@ En este repositorio se encuentra un recopilatorio de apuntes y libros utilizados
 
 No es necesario clonar este repositorio.
 
+[**Pagina FAMAFyC**](https://www.famaf.unc.edu.ar/)
+
+[**Guarani**](https://autogestion.guarani.unc.edu.ar/)
+
+[**Secretaria de Asuntos Estudiantiles**](https://www.unc.edu.ar/)
+
 # Crear un nuevo repositorio
 
 - [Template](https://github.com/FAMAF-resources/Template-repository)
@@ -50,7 +56,7 @@ No es necesario clonar este repositorio.
 
 ### Primer año
 
-#### [1ro 1C - Matematica Discreta I](https://github.com/FAMAF-resources/Matematica_Discreta_I-FAMAF)
+#### [1ro 1C - Matematica Discreta I](https://github.com/FAMAF-resources/1ro_1C-Matematica_Discreta_I-FAMAF)
 #### [1ro 1C - Introduccion a los Algoritmos](https://github.com/FAMAF-resources/1ro_1C-Introduccion_a_los_Algoritmos-FAMAF)
 #### [1ro 1C - Analisis Matematico I](https://github.com/FAMAF-resources/Analisis_Matematico_I-FAMAF)
 
@@ -60,11 +66,11 @@ No es necesario clonar este repositorio.
 
 ### Segundo año
 
-#### [2do 1C - Algoritmos y estructura de datos II](https://github.com/FAMAF-resources/Algoritmos_y_estructura_de_datos_II-FAMAF)
+#### [2do 1C - Algoritmos y estructura de datos II](https://github.com/FAMAF-resources/2do_2C-Algoritmos_y_estructura_de_datos_II-FAMAF)
 #### [2do 1C - Organizacion del Computador](https://github.com/FAMAF-resources/2do_1C-Organizacion_del_Computador-FAMAF)
 #### [2do 1C - Analisis Numerico I](https://github.com/FAMAF-resources/2do_1C-Analisis_Numerico_I-FAMAF)
 
-#### [2do 2C - Introduccion a la Logica y la Computacion](https://github.com/FAMAF-resources/2_2C-Introduccion_a_la_Logica_y_la_computacion-FAMAF)
+#### [2do 2C - Introduccion a la Logica y la Computacion](https://github.com/FAMAF-resources/2do_2C-Introduccion_a_la_Logica_y_la_computacion-FAMAF)
 #### [2do 2C - Sistemas Operativos](https://github.com/FAMAF-resources/2do_2C-Sistemas_Operativos-FAMAF)
 #### [2do 2C - Probabilidad y Estadistica](https://github.com/FAMAF-resources/2do_2C-Probabilidad_y_Estadistica-FAMAF)
 
