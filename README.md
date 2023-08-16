@@ -16,6 +16,9 @@ No es necesario clonar este repositorio.
 
 # Tabla
 
+- [:star: Recursos FAMAF :star:](#star-recursos-famaf-star)
+- [Crear un nuevo repositorio](#crear-un-nuevo-repositorio)
+- [Tabla](#tabla)
 - [Materias](#materias)
     - [Ingreso](#ingreso)
     - [Módulo de inglés](#módulo-de-inglés)
@@ -113,4 +116,10 @@ Solicitar creación del repositorio
 
 # Correlativas
 
-![Grafo de Correlativas](./images/Correlativas%20de%20Famaf.png)
+![Grafo de Correlativas](./images/Correlativas%20-%20Graph%20Dark.png)
+
+![Grafo de Correlativas](./images/Correlativas%20-%20Graph%20Light.png)
+
+![Grafo de Correlativas](./images/Correlativas%20-%20Guri%20Scan.jpg)
+
+![Grafo de Correlativas](./images/Correlativas%20-%20Morada%20Scan.jpg)
