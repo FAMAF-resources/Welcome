@@ -2,13 +2,13 @@
 
 En este repositorio se encuentra un recopilatorio de apuntes y libros utilizados en FAMAFyC.
 
-No es necesario clonar este repositorio.
-
 [**Pagina FAMAFyC**](https://www.famaf.unc.edu.ar/)
 
 [**Guarani**](https://autogestion.guarani.unc.edu.ar/)
 
 [**Secretaria de Asuntos Estudiantiles**](https://www.unc.edu.ar/)
+
+[README Publico](https://github.com/FAMAF-resources/.github/blob/main/profile/README.md)
 
 # Crear un nuevo repositorio
 
@@ -113,6 +113,9 @@ Solicitar creación del repositorio
 
 #### [Redes Neuronales](https://github.com/FAMAF-resources/Optativa-Redes_Neuronales-FAMAF)
 #### [Computacion Paralela](https://github.com/FAMAF-resources/Optativa-Computacion_Paralela-FAMAF)
+#### [Procesamiento Cuantico de la Informacion](https://github.com/FAMAF-resources/Optativa-Procesamiento_Cuantico_de_la_Informacion-FAMAF)
+#### [Microcontroladores](https://github.com/FAMAF-resources/Optativa-Microcontroladores-FAMAF)
+#### [Procesamiento de Imágenes Satelitales Meteorológicas con Python](https://github.com/FAMAF-resources/Optativa-Procesamiento_de_Imagenes_Satelitales_Meteorologicas_con_Python-FAMAF)
 
 # Correlativas
 
