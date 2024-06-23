@@ -6,6 +6,8 @@ Cualquier solicitud o consulta puede realizarse en recursos.estudio.estudiantes@
 
 [**Pagina FAMAFyC**](https://www.famaf.unc.edu.ar/) | [**Guarani**](https://autogestion.guarani.unc.edu.ar/) | [**Secretaria de Asuntos Estudiantiles**](https://www.unc.edu.ar/) | [README Publico](https://github.com/FAMAF-resources/.github/blob/main/profile/README.md)
 
+[Materias de Licenciatura de Matematica Aplicada](https://github.com/FAMAF-resources/LMA_Materias-FAMAF) | [Examenes Viejos de Licenciatura de Matematica Aplicada](https://github.com/FAMAF-resources/LMA_ExamenesViejos-FAMAF)
+
 # Tabla
 
 - [:star: Recursos FAMAF :star:](#star-recursos-famaf-star)
