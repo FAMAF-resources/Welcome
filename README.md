@@ -4,6 +4,8 @@ En este repositorio se encuentra un recopilatorio de apuntes y libros utilizados
 
 Cualquier solicitud o consulta puede realizarse en recursos.estudio.estudiantes@gmail.com
 
+[📚 **Visualizador de mesas de Exámenes para rendir**](https://milenapellegrino.github.io/feexa/)
+
 [**Pagina FAMAFyC**](https://www.famaf.unc.edu.ar/) | [**Guarani**](https://autogestion.guarani.unc.edu.ar/) | [**Secretaria de Asuntos Estudiantiles**](https://www.unc.edu.ar/) | [README Publico](https://github.com/FAMAF-resources/.github/blob/main/profile/README.md)
 
 [Materias de Licenciatura de Matematica Aplicada](https://github.com/FAMAF-resources/LMA_Materias-FAMAF) | [Examenes Viejos de Licenciatura de Matematica Aplicada](https://github.com/FAMAF-resources/LMA_ExamenesViejos-FAMAF)
